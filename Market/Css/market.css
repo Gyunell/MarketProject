@@ -1,0 +1,31 @@
+
+.div_form2{
+    background-color: rgb(163, 163, 196);
+    margin-left: 150px;
+    width: 500px;
+    height: 380px;
+    margin-top: 150px;
+    border: 2px solid rgb(116, 116, 148);
+    border-radius: 10px;
+}
+body{
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+}
+input{
+    width: 430px;
+    padding: 8px;
+    margin-left: 20px;
+}
+label{
+    font-size: 20px;
+    margin-left: 20px;
+}
+button{
+    margin-top: 20px;
+    width: 100px;
+    height: 40px;
+    margin-left: 20px;
+}
